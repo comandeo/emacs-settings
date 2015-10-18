@@ -1,11 +1,13 @@
 (source gnu)
 (source melpa)
+(source marmalade)
 
 (depends-on "auto-complete")
 (depends-on "bind-key")
 (depends-on "cask")
 (depends-on "dash")
 (depends-on "drag-stuff")
+(depends-on "editorconfig")
 (depends-on "exec-path-from-shell")
 (depends-on "expand-region")
 (depends-on "f")
